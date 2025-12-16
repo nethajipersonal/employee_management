@@ -139,7 +139,7 @@ employee_management/
 │   │   └── providers/           # Context providers
 │   ├── lib/                     # Utilities
 │   │   ├── mongodb.ts           # MongoDB connection
-│   │   └── auth.ts              # NextAuth config
+│   │   ├── auth.ts              # NextAuth config
 │   ├── models/                  # Mongoose models
 │   │   ├── User.ts
 │   │   ├── Leave.ts
